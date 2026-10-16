@@ -12,7 +12,8 @@ I'm a developer who enjoys exploring how things work, understanding complex prob
 ### 🛠️ Technologies & Tools
 
 - **Languages:** JavaScript, TypeScript, Python
-- **Frontend:** React, Next.js, HTML, CSS, Tailwind CSS, Material UI
+- **Frontend:** React, Next.js, HTML, CSS, Tailwind CSS, Material UI, Shadcn/ui
+- **Testing:** React Testing Library, Vitest
 - **State Management & Data Fetching:** Redux Toolkit, RTK Query, TanStack Query
 - **Tools & Environment:** Git, GitHub, Vite, Linux
 
